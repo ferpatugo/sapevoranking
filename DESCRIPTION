@@ -4,7 +4,7 @@ Version: 0.0.1
 Authors@R: 
     person(given = "Thiago",
            family = "Marques",
-           role = c("aut", "cre"),
+           role = c("Thiago Marques","Julio Trecenti", "Thiago Marques"),
            email = "t_hiagomarques@hotmail.com")
 Description: The Simple Aggregation of Preferences Expressed by Ordinal Vectors (SAPEVO-M) method proposed by Gomes and Santos [2018] is a new version of the original SAPEVO method [Gomes and Gomes 1997], which allows the use of multiple decision makers. In addition, it introduced a process of normalization of the evaluation matrices, increasing their consistency First, the ordinal transformation of preference between criteria, expressed by a vector representing the weights of the criteria.
 The second process is the ordinal transformation of preference among alternatives within a given set of criteria.By aggregating preferences for all criteria in this second process, an evaluation matrix is generated. The vector resulting from the multiplication between the weight vector and the evaluation matrix will indicate the ordering between the alternatives.
